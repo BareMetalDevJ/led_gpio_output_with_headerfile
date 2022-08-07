@@ -1,2 +1,2 @@
-# led_gpio_output_with_headerfile
+# Developing the GPIO output Driver led-project_3
 This time in this approach I am using the header file from the manufacture so I don't have to type in manually type and define the addresses and structures. When it comes to more complex periphals like ADC the structures would even way bigger to type in manually. So the header file provides us with all the structures already made for me and I can just access its members and then configure the registers using this method 
